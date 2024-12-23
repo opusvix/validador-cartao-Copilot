@@ -46,10 +46,11 @@ print(f'Número: {numero_cartao}, Bandeira: {bandeira}')
 python validador.py
 ```
 ### Estrutura do Projeto
+```sh
 .
 ├── validador.py
 └── README.md
-
+```
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
@@ -57,7 +58,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Contato
-GitHub: opusvix
+
 Email: opusvix@gmail.com
 
 <p>
@@ -74,7 +75,8 @@ Email: opusvix@gmail.com
     <a href="https://www.linkedin.com/in/mauriciodasilvabarros/">LinkedIn</a>
     &nbsp;|&nbsp;
     <a href="https://x.com/opusvix">
-    X</a>
+    X</a>&nbsp;|&nbsp;
+    <a href="opusvix@gmail.com">E-mail</a>a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
