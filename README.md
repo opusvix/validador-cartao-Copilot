@@ -47,7 +47,7 @@ cd seu-repositorio
 ```
 
 ### Uso
-Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou [executar o arquivo `validador.py`]() para testar a função com alguns números de cartões de exemplo.
+Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou [executar o arquivo `validador.py`](src/validador.py) para testar a função com alguns números de cartões de exemplo.
 
 ### 🛠️ Exemplo de uso no código
 
