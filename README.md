@@ -29,7 +29,7 @@ cd seu-repositorio
 ```
 
 ### Uso
-Você pode usar a função identificar_bandeira diretamente no seu código Python ou executar o arquivo validador.py para testar a função com alguns números de cartões de exemplo.
+Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou executar o arquivo validador.py para testar a função com alguns números de cartões de exemplo.
 
 ### Exemplo de uso no código
 
@@ -59,3 +59,24 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ## Contato
 GitHub: opusvix
 Email: opusvix@gmail.com
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/58704060?s=400&u=c58b05997dcd842e95dd0f5c45ab04c2054df583&v=4"
+    />
+    <p>&nbsp&nbsp&nbspMaurício Barros<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/opusvix">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/mauriciodasilvabarros/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://x.com/opusvix">
+    X</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
+
