@@ -1,4 +1,4 @@
-# Bootcamp Bootcamp Microsoft AI for Tech - GitHub Copilot da [DIO](https://dio.me)
+# Bootcamp Microsoft AI for Tech - GitHub Copilot da [DIO](https://dio.me)
 
 ## Módulo "Começando a usar o GitHub Copilot".
 
@@ -28,22 +28,27 @@ git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
-## Uso
+### Uso
 Você pode usar a função identificar_bandeira diretamente no seu código Python ou executar o arquivo validador.py para testar a função com alguns números de cartões de exemplo.
 
-## Exemplo de uso no código
+### Exemplo de uso no código
 
+```sh
 from validador import identificar_bandeira
 
 numero_cartao = '4111111111111111'
 bandeira = identificar_bandeira(numero_cartao)
 print(f'Número: {numero_cartao}, Bandeira: {bandeira}')
+```
+### Executando o arquivo de teste
 
-## Executando o arquivo de teste
-
+```sh
 python validador.py
-
-## Estrutura do Projeto
+```
+### Estrutura do Projeto
+.
+├── validador.py
+└── README.md
 
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
@@ -52,5 +57,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Contato
-GitHub: seu-usuario
-Email: seu-email@example.com
+GitHub: opusvix
+Email: opusvix@gmail.com
