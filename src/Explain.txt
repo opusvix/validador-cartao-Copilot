@@ -1,0 +1,8 @@
+
+A função `identificar_bandeira` tem como objetivo identificar a bandeira de um cartão de crédito com base no número do cartão fornecido. Inicialmente, o número do cartão é convertido para uma string para garantir que todas as operações subsequentes sejam realizadas no formato correto. Em seguida, é definido um dicionário chamado prefixos, onde cada chave representa uma bandeira de cartão e cada valor é uma lista de prefixos associados a essa bandeira.
+
+O dicionário prefixos contém várias bandeiras de cartões, como Visa, MasterCard, Elo, American Express, Discover, entre outras, e cada uma delas possui uma lista de prefixos que são usados para identificar a bandeira do cartão. Por exemplo, cartões Visa começam com o prefixo '4111', enquanto cartões MasterCard podem começar com qualquer número entre '51' e '55' ou entre '2221' e '2720'.
+
+A função então percorre cada item no dicionário prefixos. Para cada bandeira e sua lista de prefixos, a função verifica se o número do cartão começa com algum dos prefixos na lista usando a função startswith. Se encontrar um prefixo correspondente, a função retorna a bandeira do cartão. Se nenhum prefixo corresponder, a função retorna 'Bandeira desconhecida'.
+
+No bloco de código `if __name__ == "__main__":`, são fornecidos exemplos de números de cartões de várias bandeiras. A função `identificar_bandeira` é chamada para cada número de cartão, e o resultado é impresso no console, mostrando o número do cartão e a bandeira identificada. Isso serve como um teste para verificar se a função está funcionando corretamente.
