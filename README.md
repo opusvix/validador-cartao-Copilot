@@ -29,7 +29,7 @@ Brand | Initial Number Visa | Always starts with the number 4. MasterCard | Star
 
 ### Observações:
 
-Nesse primeiro prompt `1ª opçãp` o Copilot criou uma função com vários IFs, então, solicitei: "Existe alguma outra maneira de validar sem o uso de IF?". E o Copilot respondeu com uma opção `2ª opçãp` de utilizar um dicionário para mapear os prefixos dos números de cartão às suas respectivas bandeiras. Isso pode tornar o código mais limpo e fácil de manter.
+[Nesse primeiro prompt `1ª opçãp`](src/Primeira-opcao.txt) o Copilot criou uma função com vários IFs, então, solicitei: "Existe alguma outra maneira de validar sem o uso de IF?". [E o Copilot respondeu com uma opção `2ª opçãp`](src/Segunda-opcao.txt) de utilizar um dicionário para mapear os prefixos dos números de cartão às suas respectivas bandeiras. Isso pode tornar o código mais limpo e fácil de manter.
 
 Também solicitei um `explain` do código gerado que pode ser visto no link fornecido. 
 
@@ -47,7 +47,7 @@ cd seu-repositorio
 ```
 
 ### Uso
-Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou executar o arquivo `validador.py` para testar a função com alguns números de cartões de exemplo.
+Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou [executar o arquivo `validador.py`]() para testar a função com alguns números de cartões de exemplo.
 
 ### 🛠️ Exemplo de uso no código
 
