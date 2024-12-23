@@ -31,7 +31,7 @@ Brand | Initial Number Visa | Always starts with the number 4. MasterCard | Star
 
 [Nesse primeiro prompt `1ª opçãp`](src/Primeira-opcao.txt) o Copilot criou uma função com vários IFs, então, solicitei: "Existe alguma outra maneira de validar sem o uso de IF?". [E o Copilot respondeu com uma opção `2ª opçãp`](src/Segunda-opcao.txt) de utilizar um dicionário para mapear os prefixos dos números de cartão às suas respectivas bandeiras. Isso pode tornar o código mais limpo e fácil de manter.
 
-Também solicitei um `explain` do código gerado que pode ser visto no link fornecido. 
+Também solicitei um [`explain`](src/Explain.txt) do código gerado que pode ser visto no link fornecido. 
 
 ### Pré-requisitos
 
