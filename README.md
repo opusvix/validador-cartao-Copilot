@@ -13,7 +13,25 @@ A função suporta várias bandeiras de cartões, incluindo Visa, MasterCard, El
 - Suporte para várias bandeiras de cartões.
 - Validação do número do cartão para garantir que contém apenas dígitos.
 
-## Como usar
+## :abacus: Tecnologias utilizadas nesse projeto:
+
+- [VSCode](https://code.visualstudio.com/Download)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [Python 3.x](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+## :atom: Prompts:
+
+### GitHub Copilot：
+
+Create a function to validate a credit card number based on the following rules table, to identify the card brand provided by the user.
+
+Brand | Initial Number Visa | Always starts with the number 4. MasterCard | Starts with digits between 51 and 55, or between 2221 and 2720. Elo | Can start with several ranges, such as 4011, 4312, 4389, among others. American Express | Starts with 34 or 37. Discover | Starts with 6011, 65, or the range from 644 to 649. Hipercard | Usually starts with 6062. Diners Club | Usually starts with 300. EnRoute | Usually starts with 2149 or 2014. JCB | Usually starts at 35. Voyager | Usually starts at 86. Aura | Usually starts at 50.
+
+### Observações:
+
+Nesse primeiro prompt `1ª opçãp` o Copilot criou uma função com vários IFs, então, solicitei: "Existe alguma outra maneira de validar sem o uso de IF?". E o Copilot respondeu com uma opção `2ª opçãp` de utilizar um dicionário para mapear os prefixos dos números de cartão às suas respectivas bandeiras. Isso pode tornar o código mais limpo e fácil de manter.
+
+Também solicitei um `explain` do código gerado que pode ser visto no link fornecido. 
 
 ### Pré-requisitos
 
