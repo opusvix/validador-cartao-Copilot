@@ -57,7 +57,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## Contato
+## 👨‍💻 Autor
 
 Email: opusvix@gmail.com
 
@@ -76,9 +76,12 @@ Email: opusvix@gmail.com
     &nbsp;|&nbsp;
     <a href="https://x.com/opusvix">
     X</a>&nbsp;|&nbsp;
-    <a href="opusvix@gmail.com">E-mail</a>a>
+    <a href="opusvix@gmail.com">E-mail</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
+---
+
+:hammer_and_wrench: com :sparkling_heart: por [Maurício Barros](https://github.com/opusvix)
