@@ -29,9 +29,9 @@ cd seu-repositorio
 ```
 
 ### Uso
-Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou executar o arquivo validador.py para testar a função com alguns números de cartões de exemplo.
+Você pode usar a função `identificar_bandeira` diretamente no seu código Python ou executar o arquivo `validador.py` para testar a função com alguns números de cartões de exemplo.
 
-### Exemplo de uso no código
+### 🛠️ Exemplo de uso no código
 
 ```sh
 from validador import identificar_bandeira
@@ -40,12 +40,12 @@ numero_cartao = '4111111111111111'
 bandeira = identificar_bandeira(numero_cartao)
 print(f'Número: {numero_cartao}, Bandeira: {bandeira}')
 ```
-### Executando o arquivo de teste
+### 🛠️ Executando o arquivo de teste
 
 ```sh
 python validador.py
 ```
-### Estrutura do Projeto
+### 📚 Estrutura do Projeto
 ```sh
 .
 ├── validador.py
@@ -58,8 +58,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## 👨‍💻 Autor
-
-Email: opusvix@gmail.com
 
 <p>
     <img 
@@ -76,7 +74,7 @@ Email: opusvix@gmail.com
     &nbsp;|&nbsp;
     <a href="https://x.com/opusvix">
     X</a>&nbsp;|&nbsp;
-    <a href="opusvix@gmail.com">E-mail</a>
+    <a href="mailto:opusvix@gmail.com">E-mail</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
